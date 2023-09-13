@@ -32,6 +32,6 @@ From a dataset provided, different pivot tables were supposed to be created disp
 
 - Number of student who have diabetes and those who do not.
 
-![](Task4_pivot5.png)
+![](Task4-pivot5.png)
 
   
